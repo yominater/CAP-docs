@@ -1,0 +1,1 @@
+Flights are groups of people under a cadet command team. Flights are usually 4-12 people. Flights drill together as a flight.
